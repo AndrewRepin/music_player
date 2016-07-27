@@ -66,3 +66,77 @@ albom_cover = new Layer
 	shadowBlur: 42
 	shadowX: 4
 
+select = new Layer
+	x: 296
+	y: 985
+	width: 157
+	height: 157
+	borderRadius: 50
+	backgroundColor: "red"
+	scale: 0.8
+	opacity: 1
+
+select.superLayer = sketch.controls
+
+# States
+select.states.add
+	show: 
+		scale: 1 
+		opacity: 1 
+	grow:  
+		scale: 1.1
+		opacity: 0
+		
+# Variable to weak animation duration
+selectTime = 0.2
+
+select.states.animationOptions = 
+	curve: "ease", time: selectTime
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

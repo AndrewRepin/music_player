@@ -5,6 +5,18 @@ framer/backups/backup-2016-07-27 18.26.22.coffee
 framer/backups/backup-2016-07-27 18.27.22.coffee
 framer/backups/backup-2016-07-27 18.30.22.coffee
 framer/backups/backup-2016-07-27 18.31.23.coffee
+framer/backups/backup-2016-07-27 18.43.03.coffee
+framer/backups/backup-2016-07-27 18.48.04.coffee
+framer/backups/backup-2016-07-27 18.49.03.coffee
+framer/backups/backup-2016-07-27 18.50.03.coffee
+framer/backups/backup-2016-07-27 18.51.03.coffee
+framer/backups/backup-2016-07-27 18.52.03.coffee
+framer/backups/backup-2016-07-27 18.53.03.coffee
+framer/backups/backup-2016-07-27 18.54.03.coffee
+framer/backups/backup-2016-07-27 18.55.03.coffee
+framer/backups/backup-2016-07-27 18.56.03.coffee
+framer/backups/backup-2016-07-27 18.58.03.coffee
+framer/backups/backup-2016-07-27 18.59.03.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
