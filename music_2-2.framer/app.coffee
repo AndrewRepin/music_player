@@ -13,6 +13,8 @@ timeSlider.knobSize = 14
 timeSlider.knob.backgroundColor = "8E8E93"
 timeSlider.fill.backgroundColor = "8E8E93"
 
+
+
 timeStart = new Layer
 	height: 34
 	width: 60
@@ -65,37 +67,39 @@ albom_cover = new Layer
 	shadowColor: "B6B6B6"
 	shadowBlur: 42
 	shadowX: 4
-
+	
+###
 select = new Layer
 	x: 296
 	y: 985
 	width: 157
 	height: 157
-	borderRadius: 50
-	backgroundColor: "red"
+	borderRadius: 200
+	backgroundColor: "#F5F5F5"
 	scale: 0.8
-	opacity: 1
+	opacity: 0
+###
 
-select.superLayer = sketch.controls
+# select.superLayer = sketch.on
+# select.placeBehind(sketch.pause)
 
-# States
-select.states.add
-	show: 
-		scale: 1 
-		opacity: 1 
-	grow:  
-		scale: 1.1
+sketch.play.on Events.Click, ->
+	select = new Layer
+		x: 296
+		y: 985
+		width: 157
+		height: 157
+		borderRadius: 200
+		backgroundColor: "#F5F5F5"
+		scale: 0.8
 		opacity: 0
-		
-# Variable to weak animation duration
-selectTime = 0.2
-
-select.states.animationOptions = 
-	curve: "ease", time: selectTime
+	select.placeBehind(sketch.pause)	
+	
+	sketch.pause.visible = true
+	sketch.pause.scale = 0.8
+	sketch.pause.opacity = 0
 	
 	
-
-
 
 
 

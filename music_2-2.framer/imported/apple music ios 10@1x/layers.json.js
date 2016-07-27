@@ -57,36 +57,9 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 						},
 						"children": [
 							{
-								"objectId": "8453D348-2D1F-4F1C-8FA3-ACC74C43B448",
+								"objectId": "02093C7A-8883-488E-9067-D0A97F7E0A20",
 								"kind": "group",
-								"name": "pause",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 347,
-									"y": 1028,
-									"width": 56,
-									"height": 72
-								},
-								"visible": false,
-								"metadata": {
-									"opacity": 1
-								},
-								"image": {
-									"path": "images/Layer-pause-odq1m0qz.png",
-									"frame": {
-										"x": 347,
-										"y": 1028,
-										"width": 56,
-										"height": 72
-									}
-								},
-								"children": [],
-								"time": 23
-							},
-							{
-								"objectId": "6D30BD3C-9E95-40CB-B0A4-6CB2368FCFCF",
-								"kind": "group",
-								"name": "play",
+								"name": "on",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 347,
@@ -98,17 +71,63 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 								"metadata": {
 									"opacity": 1
 								},
-								"image": {
-									"path": "images/Layer-play-nkqzmeje.png",
-									"frame": {
-										"x": 347,
-										"y": 1028,
-										"width": 64,
-										"height": 71
+								"children": [
+									{
+										"objectId": "8453D348-2D1F-4F1C-8FA3-ACC74C43B448",
+										"kind": "group",
+										"name": "pause",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 347,
+											"y": 1028,
+											"width": 56,
+											"height": 72
+										},
+										"visible": false,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-pause-odq1m0qz.png",
+											"frame": {
+												"x": 347,
+												"y": 1028,
+												"width": 56,
+												"height": 72
+											}
+										},
+										"children": [],
+										"time": 25
+									},
+									{
+										"objectId": "6D30BD3C-9E95-40CB-B0A4-6CB2368FCFCF",
+										"kind": "group",
+										"name": "play",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 347,
+											"y": 1028,
+											"width": 64,
+											"height": 71
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-play-nkqzmeje.png",
+											"frame": {
+												"x": 347,
+												"y": 1028,
+												"width": 64,
+												"height": 71
+											}
+										},
+										"children": [],
+										"time": 25
 									}
-								},
-								"children": [],
-								"time": 24
+								],
+								"time": 62
 							},
 							{
 								"objectId": "6806DC5E-8A32-47FC-A96F-705BB56CDEBB",
@@ -135,7 +154,7 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 24
+								"time": 25
 							},
 							{
 								"objectId": "5C34FB4C-4AB0-4354-84B6-B33831B9E1DC",
@@ -162,10 +181,10 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 23
+								"time": 25
 							}
 						],
-						"time": 112
+						"time": 129
 					},
 					{
 						"objectId": "64C9DB29-AF6F-402D-869B-6143C9CCFF97",
@@ -192,7 +211,7 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 							}
 						},
 						"children": [],
-						"time": 27
+						"time": 28
 					},
 					{
 						"objectId": "E353F0E2-18FE-4599-8AE2-D4466A4DEFE4",
@@ -219,7 +238,7 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 							}
 						},
 						"children": [],
-						"time": 21
+						"time": 25
 					},
 					{
 						"objectId": "5A330ACE-760C-42B2-AB8F-18AAE4FB89B7",
@@ -305,10 +324,10 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 34
+								"time": 35
 							}
 						],
-						"time": 87
+						"time": 86
 					},
 					{
 						"objectId": "E648631A-BF64-48B3-BD61-2C8BFD8C2D94",
@@ -351,7 +370,7 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 22
+								"time": 24
 							},
 							{
 								"objectId": "2A60AB28-A190-47FA-976B-B2B80CF8989C",
@@ -378,7 +397,7 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 26
+								"time": 27
 							},
 							{
 								"objectId": "A56762B9-3D2F-42FB-B248-D22AC41F8BCE",
@@ -432,13 +451,13 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 									}
 								},
 								"children": [],
-								"time": 22
+								"time": 24
 							}
 						],
-						"time": 127
+						"time": 138
 					}
 				],
-				"time": 552
+				"time": 591
 			},
 			{
 				"objectId": "D447C239-56A7-49CB-A9F2-927801539D9A",
@@ -465,9 +484,9 @@ window.__imported__["apple music ios 10@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 190
+				"time": 212
 			}
 		],
-		"time": 754
+		"time": 817
 	}
 ]
