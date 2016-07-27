@@ -1,45 +1,18 @@
-.git/config
-.git/description
-.git/FETCH_HEAD
-.git/HEAD
-.git/hooks/applypatch-msg.sample
-.git/hooks/commit-msg.sample
-.git/hooks/post-update.sample
-.git/hooks/pre-applypatch.sample
-.git/hooks/pre-commit.sample
-.git/hooks/pre-push.sample
-.git/hooks/pre-rebase.sample
-.git/hooks/prepare-commit-msg.sample
-.git/hooks/update.sample
-.git/info/exclude
 app.coffee
-framer/backups/backup-2016-07-25 00.00.20.coffee
-framer/backups/backup-2016-07-25 00.02.20.coffee
-framer/backups/backup-2016-07-25 00.05.20.coffee
-framer/backups/backup-2016-07-25 00.06.20.coffee
-framer/backups/backup-2016-07-25 00.07.20.coffee
-framer/backups/backup-2016-07-25 00.09.20.coffee
-framer/backups/backup-2016-07-25 00.10.20.coffee
-framer/backups/backup-2016-07-25 00.25.20.coffee
-framer/backups/backup-2016-07-25 00.26.20.coffee
-framer/backups/backup-2016-07-25 00.27.20.coffee
-framer/backups/backup-2016-07-25 00.28.20.coffee
-framer/backups/backup-2016-07-25 00.29.20.coffee
-framer/backups/backup-2016-07-25 00.30.20.coffee
-framer/backups/backup-2016-07-25 00.32.20.coffee
-framer/backups/backup-2016-07-25 00.33.20.coffee
-framer/backups/backup-2016-07-25 01.04.18.coffee
-framer/backups/backup-2016-07-25 01.05.18.coffee
-framer/backups/backup-2016-07-25 01.06.18.coffee
-framer/backups/backup-2016-07-25 01.07.18.coffee
-framer/backups/backup-2016-07-25 01.08.18.coffee
-framer/backups/backup-2016-07-25 01.09.18.coffee
+framer/backups/backup-2016-07-27 18.21.22.coffee
+framer/backups/backup-2016-07-27 18.22.22.coffee
+framer/backups/backup-2016-07-27 18.26.22.coffee
+framer/backups/backup-2016-07-27 18.27.22.coffee
+framer/backups/backup-2016-07-27 18.30.22.coffee
+framer/backups/backup-2016-07-27 18.31.23.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
 framer/framer.init.js
 framer/framer.js
 framer/framer.js.map
+framer/framer.js.map.old
+framer/framer.js.old
 framer/framer.modules.js
 framer/images/background.png
 framer/images/cursor-active.png
@@ -64,27 +37,22 @@ framer/mirror.css
 framer/preview.png
 framer/style.css
 framer/version
-images/albom_cover.pdf
-images/back.pdf
-images/computergraphics-album-covers-2014-18.jpg
-images/next.pdf
-images/pause.pdf
-images/play.pdf
-images/Star-Wars.jpg
-imported/apple music ios 10_for_framer@1x/images/Layer-arrow_down-q0y3mtux.png
-imported/apple music ios 10_for_framer@1x/images/Layer-artist-mjhcodcx.png
-imported/apple music ios 10_for_framer@1x/images/Layer-Back-qzlcnuyw.png
-imported/apple music ios 10_for_framer@1x/images/Layer-Battery_Icon-rda2ndi2.png
-imported/apple music ios 10_for_framer@1x/images/Layer-head_phones-quu4nuq5.png
-imported/apple music ios 10_for_framer@1x/images/Layer-more-qjzbqjjb.png
-imported/apple music ios 10_for_framer@1x/images/Layer-plus-qje0mjvb.png
-imported/apple music ios 10_for_framer@1x/images/Layer-Signal-njdbmjzf.png
-imported/apple music ios 10_for_framer@1x/images/Layer-song-mzzgquq2.png
-imported/apple music ios 10_for_framer@1x/images/Layer-song-qunfquu1.png
-imported/apple music ios 10_for_framer@1x/images/Layer-sound_max-muy4nju0.png
-imported/apple music ios 10_for_framer@1x/images/Layer-sound_min-mzu3qtjf.png
-imported/apple music ios 10_for_framer@1x/images/Layer-Status_Bar_White_-rtmxmje5.png
-imported/apple music ios 10_for_framer@1x/layers.json
-imported/apple music ios 10_for_framer@1x/layers.json.js
+images/141499.jpg
+imported/apple music ios 10@1x/images/Layer-arrow_down-njq3nzaz.png
+imported/apple music ios 10@1x/images/Layer-artist_name-mtrgnuqz.png
+imported/apple music ios 10@1x/images/Layer-back-njgwnkrd.png
+imported/apple music ios 10@1x/images/Layer-Back-rdq0n0my.png
+imported/apple music ios 10@1x/images/Layer-head_phones-mke2mefc.png
+imported/apple music ios 10@1x/images/Layer-more-qtu2nzyy.png
+imported/apple music ios 10@1x/images/Layer-next-numznezc.png
+imported/apple music ios 10@1x/images/Layer-pause-odq1m0qz.png
+imported/apple music ios 10@1x/images/Layer-play-nkqzmeje.png
+imported/apple music ios 10@1x/images/Layer-plus-mkvfndq4.png
+imported/apple music ios 10@1x/images/Layer-song_title-nuzgmtbe.png
+imported/apple music ios 10@1x/images/Layer-songcard-qti2qkzc.png
+imported/apple music ios 10@1x/images/Layer-sound_max-njrdourc.png
+imported/apple music ios 10@1x/images/Layer-sound_min-rtm1m0yw.png
+imported/apple music ios 10@1x/layers.json
+imported/apple music ios 10@1x/layers.json.js
 index.html
 modules/myModule.coffee
